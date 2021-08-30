@@ -1,2 +1,2 @@
-# HTML&CSS_Project1
+# HTML & CSS Techdegree Project 1
  
